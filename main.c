@@ -1,5 +1,6 @@
 /* SASE Machine Control Program */
 
+//#include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/mcc.h"
 #include "SASE/BasicFunctions.h"
 #include "SASE/SASE.h"
@@ -9,7 +10,7 @@ void Testing(void);
 
 uint16_t Dip = 0x00;
 
-//GIT TEST 
+//GIT TEST 2
 
 /*
                          Main application
