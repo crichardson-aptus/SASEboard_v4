@@ -9,6 +9,8 @@ void Testing(void);
 
 uint16_t Dip = 0x00;
 
+//GIT TEST 
+
 /*
                          Main application
  */
